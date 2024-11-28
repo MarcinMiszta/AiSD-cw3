@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\local\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\155706\\BST\\BST\\BST.csproj",
+      "projectUniqueName": "C:\\Users\\Marcin\\Desktop\\AiSD-cw3-main\\BST\\BST\\BST.csproj",
       "projectName": "BST",
-      "projectPath": "D:\\155706\\BST\\BST\\BST.csproj",
-      "packagesPath": "C:\\Users\\local\\.nuget\\packages\\",
-      "outputPath": "D:\\155706\\BST\\BST\\obj\\",
+      "projectPath": "C:\\Users\\Marcin\\Desktop\\AiSD-cw3-main\\BST\\BST\\BST.csproj",
+      "packagesPath": "C:\\Users\\Marcin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marcin\\Desktop\\AiSD-cw3-main\\BST\\BST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\local\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
