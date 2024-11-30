@@ -14,7 +14,10 @@ namespace BST
        public int data;
         public NodeT(int data)
         {
-
+            this.data = data;
+            this.rodzic = null;
+            this.prawe = null;
+            this.lewe = null;
         }
     }
 }

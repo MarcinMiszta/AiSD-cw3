@@ -1,0 +1,17 @@
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\bin\Debug\net6.0-windows\BST.exe
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\bin\Debug\net6.0-windows\BST.deps.json
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\bin\Debug\net6.0-windows\BST.runtimeconfig.json
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\bin\Debug\net6.0-windows\BST.dll
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\bin\Debug\net6.0-windows\BST.pdb
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.Form1.resources
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.AssemblyInfoInputs.cache
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.AssemblyInfo.cs
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.dll
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\refint\BST.dll
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.pdb
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\BST.genruntimeconfig.cache
+C:\Users\Marcin\Desktop\AiSD-cw3-main\BST\BST\obj\Debug\net6.0-windows\ref\BST.dll

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace BST
 {
@@ -149,6 +150,24 @@ namespace BST
             
             }
         }
+        public string WypiszDrzewo()
+        {
+            if (root == null) return "Drzewo jest puste.";
+            StringBuilder sb = new StringBuilder();
+            WypiszRekurencyjnie(root, 0, sb);
+            return sb.ToString();
+        }
+
+        private void WypiszRekurencyjnie(NodeT node, int poziom, StringBuilder sb)
+        {
+            if (node == null) return;
+
+            WypiszRekurencyjnie(node.prawe, poziom + 1, sb); 
+            sb.AppendLine(new string(' ', poziom * 4) + node.data); 
+            WypiszRekurencyjnie(node.lewe, poziom + 1, sb); 
+        }
+
+
         public NodeT ZnajdzRodzica(NodeT dziecko)
         {
             var rodzic = root;
